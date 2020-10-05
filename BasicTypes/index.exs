@@ -1,8 +1,12 @@
-iex> 1          # integer
-iex> 0x1F       # integer
-iex> 1.0        # float
-iex> true       # boolean
-iex> :atom      # atom / symbol
-iex> "elixir"   # string
-iex> [1, 2, 3]  # list
-iex> {1, 2, 3}  # tuple
+1          # integer
+0x1F       # integer
+1.0        # float
+true       # boolean
+:atom      # atom / symbol
+"elixir"   # string
+[1, 2, 3]  # list
+{1, 2, 3}  # tuple
+
+div(10, 2) or div 10, 2 #Dividir
+
+String.length("João Dematé") == 11
